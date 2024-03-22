@@ -50,3 +50,5 @@ def ahorcado():
 
 if __name__ == "__main__":
     ahorcado()
+
+#Melissa Gutiérrez Vázquez 22/03/2024

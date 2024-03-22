@@ -71,3 +71,5 @@ def laberinto():
 
 if __name__ == "__main__":
     laberinto()
+
+#Melissa Gutiérrez Vázquez 22/03/2024
